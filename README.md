@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Zecpath AI System
 
 ## Objective
@@ -29,3 +30,6 @@ Example:
 
 ```bash
 pip install pandas numpy scikit-learn flask fastapi openai python-dotenv pytest
+=======
+# zecpath-ai-system
+>>>>>>> 8e92fd44814b387a80799e133275c23f489833d2
